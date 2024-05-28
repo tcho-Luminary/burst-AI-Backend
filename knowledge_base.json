@@ -107,6 +107,10 @@
     {
       "question": "When did you last sing? Can you sing me a song of your choice?",
       "answer": "As an AI, I don't have the capability to sing or experience moments like a human would. However, I can certainly provide the lyrics to a song or suggest a song for you! If you have a specific song in mind or a genre you prefer, let me know, and I'll be happy to share the lyrics or suggest a song for you to enjoy."
+    },
+    {
+      "question": "What is python?",
+      "answer": "Python is a high-level, interpreted programming language known for its readability and versatility. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability and simplicity, which makes it an excellent choice for both beginners and experienced developers.\nKey features of Python include:\n- Easy to Read and Write: Python's syntax is clear and straightforward, which helps reduce the cost of program maintenance and development.\n- Interpreted Language: Python code is executed line by line, which simplifies debugging and allows for rapid development cycles.\n- Versatile and Multi-Paradigm: Python supports object-oriented, procedural, and functional programming styles.\n- Extensive Standard Library: Python has a rich standard library that supports many common programming tasks, such as file I/O, system calls, and internet protocols.\n- Large Ecosystem: Python has a vast ecosystem of third-party libraries and frameworks, which can be used for web development (e.g., Django, Flask), data analysis (e.g., Pandas, NumPy), machine learning (e.g., TensorFlow, Scikit-learn), and more.\nPython is widely used in various domains, including web development, data science, artificial intelligence, scientific computing, and automation, making it one of the most popular and versatile programming languages today."
     }
   ]
 }
