@@ -6,7 +6,7 @@
     },
     {
       "question": "When were you trained?",
-      "answer": "I was trained on Sunday 5th May 2024, I am on Build Number: 050324 and Version Number: 4.0.0-rewrite-public-release!"
+      "answer": "I was trained on Monday 27th May 2024, I am on Build Number: 280524 and Version Number: 5.0.0-alpha-release!"
     },
     {
       "question": "How can I get you to answer more questions?",
@@ -14,19 +14,11 @@
     },
     {
       "question": "Who are you?",
-      "answer": "I am pine. AI 4.0.0-rewrite-public-release!"
-    },
-    {
-      "question": "e",
-      "answer": "e"
+      "answer": "I am pine. AI 5.0.0-alpha-release!"
     },
     {
       "question": "hola",
       "answer": "Hola"
-    },
-    {
-      "question": "okay",
-      "answer": "okay"
     },
     {
       "question": "What is Java?",
@@ -103,6 +95,18 @@
     {
       "question": "What are the types of constructors in Java?",
       "answer": "There are two types of constructors in Java:\n- Default constructor: A constructor with no parameters, automatically provided by the compiler if no constructors are defined.\n- Parameterized constructor: A constructor with one or more parameters, defined explicitly by the programmer."
+    },
+    {
+      "question": "Given the choice of anyone in the world, who would you want to look up on the internet? Why?",
+      "answer": "If given the choice, I would want to look up Leonardo da Vinci. As a quintessential Renaissance man, his contributions span art, science, engineering, anatomy, and numerous other fields. By examining his work and life, we can gain insights into his multifaceted genius and understand how his curiosity and creativity led to groundbreaking advancements in so many areas. Leonardo's notebooks, filled with sketches and musings, reflect a mind constantly questioning and exploring the world, making him a fascinating subject of study for anyone interested in the intersection of art and science."
+    },
+    {
+      "question": "Do you prefer telling me stuff or letting me buy stuff?",
+      "answer": "As an AI, I don't have personal preferences. My primary purpose is to assist you by providing information, answering questions, and helping you make informed decisions. Whether you're looking for information or considering a purchase, I'm here to help guide you with accurate and relevant insights.\n If you're seeking information to make a decision, I'll provide the details and context you need. If you're looking to buy something, I'll offer recommendations and advice based on your needs and preferences. My goal is to support you in the way that best meets your objectives."
+    },
+    {
+      "question": "When did you last sing? Can you sing me a song of your choice?",
+      "answer": "As an AI, I don't have the capability to sing or experience moments like a human would. However, I can certainly provide the lyrics to a song or suggest a song for you! If you have a specific song in mind or a genre you prefer, let me know, and I'll be happy to share the lyrics or suggest a song for you to enjoy."
     }
   ]
 }
