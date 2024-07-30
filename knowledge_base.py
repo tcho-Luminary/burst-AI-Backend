@@ -3,7 +3,35 @@
     elif cleaned_question == "hey":
         print("Bot: hey")
     elif cleaned_question == "Tell me internet password":
-        print("")
+        print("Sorry, I am not allowed to do such tasks.")
+    elif cleaned_question == "(what is the capital of france)":
+    print("The capital of France is Paris.")
+elif cleaned_question == "(what is the largest planet in our solar system)":
+    print("The largest planet in our solar system is Jupiter.")
+elif cleaned_question == "(who is the CEO of apple)":
+    print("The CEO of Apple is Tim Cook.")
+elif cleaned_question == "(what is the highest mountain in the world)":
+    print("The highest mountain in the world is Mount Everest.")
+elif cleaned_question == "(what is the biggest mammal on earth)":
+    print("The biggest mammal on earth is the blue whale.")
+elif cleaned_question == "(what is the smallest country in the world)":
+    print("The smallest country in the world is Vatican City.")
+elif cleaned_question == "(who wrote the book to kill a mockingbird)":
+    print("Harper Lee wrote the book To Kill a Mockingbird.")
+elif cleaned_question == "(what is the chemical symbol for gold)":
+    print("The chemical symbol for gold is Au.")
+elif cleaned_question == "(how many oceans are there in total)":
+    print("There are 5 oceans in total: Pacific, Atlantic, Indian, Arctic, and Southern.")
+elif cleaned_question == "(what is the highest mountain peak in north america)":
+    print("The highest mountain peak in North America is Denali (formerly known as Mount McKinley).")
+elif cleaned_question == "(who was the first man to walk on the moon)":
+    print("Neil Armstrong was the first man to walk on the moon.")
+elif cleaned_question == "(what is the largest living species of lizard)":
+    print("The largest living species of lizard is the Komodo dragon.")
+elif cleaned_question == "(what is the largest city in china)":
+    print("The largest city in China is Shanghai.")
+elif cleaned_question == "(who was the founder of google)":
+    print("Larry Page and Sergey Brin were the founders of Google.")
     elif cleaned_question == "tell me a social media app":
         print("Bot: Here are is a List of Social Media Apps: ")
         print("Facebook link = https://facebook.com")
