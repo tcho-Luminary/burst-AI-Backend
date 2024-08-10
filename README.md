@@ -1,4 +1,4 @@
-# Bursting pine. AI Backend
+# Burst AI Backend
 
 Stuff like the Knowledge Base are stored here!
-Bursting pine ai fork of pine ai
+Burst ai fork of pine ai
