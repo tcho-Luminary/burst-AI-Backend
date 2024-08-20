@@ -1,4 +1,3 @@
 # Burst AI Backend
-
-Stuff like the Knowledge Base are stored here!
-Burst ai fork of pine ai
+Burst ai is a community version of pine ai
+due to disallowance of name changing Burst AI and Pine AI are having issues.
