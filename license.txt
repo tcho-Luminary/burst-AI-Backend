@@ -1,0 +1,18 @@
+Burst AI License
+
+Copyright (c) [Year] Burst AI
+
+Permission is hereby is not granted,
+to any person obtaining a copy of this software and associated documentation files (the "Software"),
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+subject to the following conditions:
+Name Usage: The name "Burst AI" is a trademark of Burst AI. You may not use the name "Burst AI" or any similar name in a way that could be confused with Burst AI without explicit written permission.
+
+Source Code: The source code and other related materials for Burst AI are proprietary and confidential. You may not disclose, distribute, or otherwise make available the source code to any third party without explicit written permission.
+
+Leaked Source Code: In the event that the source code or other proprietary materials are leaked or otherwise made available without authorization, such actions are considered a violation of this license. If you become aware of any unauthorized dissemination, you agree to notify Burst AI immediately and cooperate in taking corrective actions.
+
+Disclaimer: The Software is provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+Governing Law: This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising under this license will be resolved in the courts of [Your Jurisdiction].
+
