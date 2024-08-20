@@ -1,6 +1,9 @@
 Burst AI License
 
-Copyright (c) [Year] Burst AI
+Copyright (c) [2024] Burst AI
+
+Policy changes:
+Burst Would not accept any changes before 3 weeks of policy being applied
 
 Permission is hereby is not granted,
 to any person obtaining a copy of this software and associated documentation files (the "Software"),
